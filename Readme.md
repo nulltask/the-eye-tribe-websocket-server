@@ -29,19 +29,19 @@ Following code is JavaScript example.
       console.log(JSON.parse(e.data));
     };
 
-## Requirement
+## Requirements
 
 * The Eye Tribe 
 * The Eye Tribe SDK
 * .NET Framework 4.5
 * Visual Studio 2013 for Windows Desktop
 
-## Link
+## Links
 
 * [The Eye Tribe](http://theeyetribe.com/)
 * [API Reference](http://dev.theeyetribe.com/api/)
 
-## Lisence
+## License
 
 (The MIT License)
 
